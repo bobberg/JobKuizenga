@@ -1,0 +1,31 @@
+body {
+  background-color: #222222;
+  color: white;
+  font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+.entry-picture {
+  width: 100%;
+}
+
+.title {
+  text-align: left;
+  margin-bottom: 50px;
+  margin-left: 10%;
+}
+
+.contact {
+  height: 100px;
+}
+
+.contact-header {
+  font-weight: bold;
+}
+
+.contact-details {
+
+}
+
+.content-wrapper {
+
+}
