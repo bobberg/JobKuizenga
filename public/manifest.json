@@ -1,8 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
+  "short_name": "Job Kuizenga",
+  "name": "Job Kuizenga Portfolio",
+  "description": "Job Kuizenga is a film director and producer. This is his portfolio page.",
+  "icons": [{
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
