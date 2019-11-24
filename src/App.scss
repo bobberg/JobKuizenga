@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Chathura Regular';
+  src: local('Chathura Regular'), local('ChathuraRegular'),
+    url('./media/chathura-regular-webfont.woff') format('woff'),
+}
+
 .App {
   text-align: center;
 }
@@ -20,11 +26,23 @@
   color: #09d3ac;
 }
 
+.videos {
+  font-family: "Chathura Regular";
+  font-size: 34px;
+}
+
 .sisca-video-container {
   width: 70%;
 }
 
 .contact {
-  color: #fff;
+  float: left;
+  text-align: left;
+  margin: 20px;
+  font-family: "Chathura Regular";
+  font-size: 34px;
+}
 
+.contact-header {
+  font-weight: bold;
 }
